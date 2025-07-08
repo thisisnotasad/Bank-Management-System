@@ -1,0 +1,4 @@
+# Sample transactions for demo/testing only. Do not use real data in production.
+# Format: AccountID,Amount,Type,Timestamp
+12345678,500,deposit,2025-07-08 10:00:00
+87654321,200,withdraw,2025-07-08 11:00:00

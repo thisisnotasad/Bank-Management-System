@@ -1,0 +1,4 @@
+# Sample accounts for demo/testing only. Do not use real data in production.
+# Format: Name,AccountNumber,Password,Balance
+John Doe,12345678,pass123,1000
+Jane Smith,87654321,word321,2000
