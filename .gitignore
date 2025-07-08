@@ -18,6 +18,7 @@ transactions.txt
 
 # Ignore VS Code settings
 .vscode/
+.git
 
 # Ignore OS-specific files
 Thumbs.db
